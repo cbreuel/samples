@@ -1,2 +1,3 @@
-# samples
-Various sample code snipets.
+# Samples
+
+Various sample code snipets and utilities.
